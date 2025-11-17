@@ -1,5 +1,12 @@
 h1 {
-    color: blue;
-    font-family: arial;
-    font-size: 100px;
+  font-family: Arial, Verdana, sans-serif;
+  font-variant: small-caps;
+  color: hsl(179, 100%, 50%);
+  text-transform: lowercase;
+}
+
+p {
+  font-family: georgia, serif;
+  line-height: 60px;
+  text-align: right;
 }
