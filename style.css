@@ -1,8 +1,9 @@
 h1 {
   font-family: Arial, Verdana, sans-serif;
-  font-variant: small-caps;
-  color: hsl(179, 100%, 50%);
+  font-variant: initial;
+  color: gold;
   text-transform: lowercase;
+  font-weight: normal;
 }
 
 p {
